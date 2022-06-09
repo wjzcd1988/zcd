@@ -1,0 +1,80 @@
+
+STRINGTABLE
+{
+
+        IDS_OCTANEMATERIAL              "Octane Material_Octane \u6750\u8d28";
+        IDS_OCTANE_PORTAL_MATERIAL      "Octane Portal Material_Octane \u95e8\u6237\u6750\u8d28";
+        IDS_OCTANE_MIX_MATERIAL         "Octane Mix Material_Octane \u6df7\u5408\u6750\u8d28";
+        IDS_OCTANE_VIDEOPOST            "Octane Renderer_\u6e32\u67d3\u8bbe\u7f6e";
+	IDS_OCTANE_FALLOFFMAP		"Falloffmap_\u8870\u51cf\u8d34\u56fe\uff08\u83f2\u5c3c\u5c14\uff09";
+        IDS_MIXTEXTURE                  "MixTexture_\u6df7\u5408\u7eb9\u7406";
+        IDS_RGBSPECTRUM                 "RgbSpectrum_RGB \u989c\u8272";
+        IDS_RANDOMCOLOR                 "Random Color_\u968f\u673a\u989c\u8272";
+        IDS_POLYGONSIDE                 "Side_\u4fa7\u9762";
+        IDS_CHECKSMIXTEXTURE            "Checks_\u68cb\u76d8\u683c";
+        IDS_ALPHAIMAGE                  "AlphaImage_Alpha \u56fe\u50cf";
+        IDS_CLAMPTEXTURE                "ClampTexture_\u4fee\u526a\u7eb9\u7406";
+        IDS_COLORCORRECTION             "ColorCorrection_\u8272\u5f69\u6821\u6b63";
+        IDS_COSINEMIX                   "Cosinemix_\u4f59\u5f26\u6df7\u5408";
+        IDS_IMAGETEXTURE                "ImageTexture_\u56fe\u50cf\u7eb9\u7406";
+        IDS_FLOATIMAGE                  "FloatImage_\u6d6e\u70b9\u56fe\u50cf";
+        IDS_FLOATTEXTURE                "FloatTexture_\u6d6e\u70b9\u7eb9\u7406";
+        IDS_GAUSSIANSPECTRUM            "GaussianSpectrum_\u9ad8\u65af\u989c\u8272";
+        IDS_GRADIENT                    "Gradient_\u68af\u5ea6";
+        IDS_IMAGE                       "Image_\u56fe\u50cf";
+        IDS_INVERT                      "Invert_\u53cd\u8f6c";
+        IDS_MARBLE                      "Marble_\u5927\u7406\u77f3";
+        IDS_MULTIPLY                    "Multiply_\u76f8\u4e58";
+        IDS_ADD_TEX                     "Add_\u6dfb\u52a0";
+        IDS_SUBTRACT_TEX                "Subtract_\u51cf\u53bb";
+        IDS_RIDGEDFRACTAL               "RidgedFractal_\u4e0d\u89c4\u5219\u7684/\u9686\u8d77/\u8d77\u76b1\u7684";
+        IDS_SAWWAVE                     "SawWave_\u952f\u9f7f\u6ce2\u7eb9";
+        IDS_SINEWAVE                    "SineWave_\u5355\u4e00\u6ce2\u7eb9";
+        IDS_TRIANGLEWAVE                "TriangleWave_\u4e09\u89d2\u6ce2\u7eb9";
+        IDS_TURBULENCE                  "Turbulence_\u6e4d\u6d41";
+        IDS_NOISE                       "Noise_\u566a\u6ce2";
+        IDS_TRANSFORM                   "Transform_\u53d8\u6362";
+        IDS_UVW_TRANSFORM               "Uvw Transform_Uvw \u53d8\u6362";
+        OCTANE_CUSTOMGUI                "Custom Gui_\u81ea\u5b9a\u4e49\u754c\u9762";
+        IDS_OCTANELIVERENDER            "Live Viewer Window Octane_\u5b9e\u65f6\u67e5\u770b\u7a97\u53e3";
+        IDS_OCTANECAMERA                "OctaneCameraTag Octane_\u6444\u50cf\u673a\u6807\u7b7e";
+        IDS_WCOORDINATE                 "W coordinate_\u4e16\u754c\u5750\u6807";
+        IDS_COMPARE_TEX                 "Comparison_\u6bd4\u8f83";
+        IDS_TRIPLANAR_TEX               "Triplanar_\u4e09\u5e73\u9762";
+        IDS_INST_RANGE_TEX              "Instance Range_\u5b9e\u4f8b\u8303\u56f4";
+        IDS_INSTANCE_COLOR              "Instance Color_\u5b9e\u4f8b\u989c\u8272";
+        IDS_BAKING_TEXTURE              "Baking Texture_\u70d8\u7119\u7eb9\u7406";
+        IDS_OSL_TEXTURE                 "Osl Texture Osl_\u7eb9\u7406";
+        IDS_OCT_UBER_MATERIAL           "Uber Material Uber_\u6750\u8d28";
+
+        IDS_ABSORPTION_MEDIUM           "Absorption Medium_\u5438\u6536\u4ecb\u8d28";
+        IDS_SCATTERING_MEDIUM           "Scattering Medium_\u6563\u5c04\u4ecb\u8d28";
+
+        IDS_BLACKBODY_EMISSION          "Blackbody Emission_\u9ed1\u4f53\u53d1\u5149";
+        IDS_TEXTURE_EMISSION            "Texture Emission_\u7eb9\u7406\u53d1\u5149";
+
+        IDS_ENVIRONMENT_TAG             "Environment Tag Octane_\u73af\u5883\u6807\u7b7e";
+        IDS_OCTANEDAYLIGHT_TAG          "DayLight Tag Octane_\u65e5\u5149\u6807\u7b7e";
+        ID_OCTANE_MATERIAL_CONVERT      "Convert Materials_\u8f6c\u6362\u6750\u8d28";
+        IDS_CONVERT_MATERIALS           "Convert Materials_\u8f6c\u6362\u6750\u8d28";
+        IDC_EXPERIMENTAL_FEATURES       "Experimental_features";
+        IDS_OCTANE_DIRTTEXTURE          "Dirt_\u6c61\u57a2";
+        IDS_OBJECT_TAG                  "Octane ObjectTag Octane_\u5bf9\u8c61\u6807\u7b7e";
+        IDS_LIGHT_TAG                   "Octane LightTag_Octane \u706f\u5149\u6807\u7b7e";
+        GROUP_SETTINGS                  "Settings_\u8bbe\u7f6e";
+        IDS_OPEN_OCTANE_DIALOG          "Octane Dialog_Octane \u5de5\u5177\u6761";
+        IDS_OPEN_SETTINGS               "Octane Settings_Octane \u8bbe\u7f6e";
+        IDS_OPEN_LIVEVIEWER             "Live Viewer_\u5b9e\u65f6\u67e5\u770b\u5668";
+        IDS_TEXTURE_PROJECTION          "Texture Projection_\u7eb9\u7406\u6295\u5c04";
+        IDS_REFERANCE_SHADER            "RefShader_\u53c2\u8003\u7740\u8272\u5668";
+        IDS_OCTANE_DISPLACEMENT         "Displacement_\u7f6e\u6362";
+        IDS_OPEN_LIVEDB                 "Open LiveDB_\u6253\u5f00 LiveDB";
+        IDC_OUTOFCORE_RAMUSAGE          "Ram";
+        IDS_OCTANEPREFS                 "Octane Render_Octane \u6e32\u67d3";
+        ID_VOLUMEOBJECT                 "Octane Volume_Octane \u4f53\u79ef";
+        ID_SCATTER_OBJECT               "Octane Scatter_Octane \u5206\u5e03";
+        IDS_CUSTOMGUISTRING             "cString";
+        IDS_VOLUMEMEDIUM                "Volume Medium_\u4f53\u79ef\u4ecb\u8d28";
+        IDS_VOLUMEGRADIENT              "\Volume Gradient_\u4f53\u79ef\u6e10\u53d8";
+        IDS_NODEGRAPH_TEX               "NodeGraph_\u8282\u70b9\u56fe\u8868";
+}
